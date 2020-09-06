@@ -26,3 +26,6 @@ Binarization, Mean Removal, Scaling, Nomalizationを扱う。
 
 * `section_02_05.ipynb`  
 SVMについて。正解ラベルが与えられている`n`次元空間上の点群を、2つに分ける。
+
+* `section_02_06.ipynb`  
+1変数の回帰について。
